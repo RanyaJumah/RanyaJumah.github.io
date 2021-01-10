@@ -1,7 +1,7 @@
 ---
 title: "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants"
 collection: publications
-permalink: /publication/2019 - Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants
+permalink: /publication/2019-Emotionless
 excerpt: ''
 date: 2019-11-09
 venue: 'privacy Preserving Machine Learning Workshop, CCS 2019'
