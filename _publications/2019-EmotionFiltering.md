@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-11-10
 venue: '1st Workshop on Machine Learning on Edge in Sensor Systems, SenSys 2019'
 paperurl: 'https://arxiv.org/pdf/1909.08500'
-citation: 'Aloufi, Ranya and Haddadi, Hamed and Boyle, David. (2019). &quot;Emotion Filtering at the Edge.&quot;'
+citation: ''
 ---
 
 
