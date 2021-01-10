@@ -8,27 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) 
+I am a PhD student at the Systems and Algorithms Laboratory (SysAL) at the Dyson School of Design Engineering, Imperial College London. I am supervised by Dr. David Boyle and Dr. Hamed Haddadi. Before that, I studied a BS in Computer Science at Taibah University and an MS in Advanced Computer Science at the University of Leicester. I am interested in the Internet of Things (IoT), Deep Learning, Data Security & Privacy, and their intersection. In particular, I am interested in designing and building systems that enable better use of our digital footprint, while respecting users' privacy. Recently I focused on preventing companies from collecting emotion data about users in voice-controlled applications.
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
 
-Site-wide configuration
-------
 
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-)
-
-How to edit your site's GitHub repository
------- 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
