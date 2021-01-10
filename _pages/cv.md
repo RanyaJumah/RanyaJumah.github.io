@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-![CV](/files/Ranya_CV.pdf)
+[CV](/files/Ranya_CV.pdf)
