@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-11-09
 venue: 'privacy Preserving Machine Learning Workshop, CCS 2019'
 paperurl: 'https://arxiv.org/pdf/1908.03632'
-citation: 'Aloufi, Ranya and Haddadi, Hamed and Boyle, David. (2019). &quot;Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants.&quot;'
+citation: ''
 ---
 
 [Download paper here](https://arxiv.org/pdf/1908.03632)
