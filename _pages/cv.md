@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: ![CV](/files/Ranya_CV.pdf)
+permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from:![CV](/files/Ranya_CV.pdf)
   - /resume
 ---
