@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-DisentangledRepresentations
 excerpt: ''
 date: 2020-11-09
-venue: 'Cloud Computing Security Workshop, CCS 2020, 2020'
+venue: 'Cloud Computing Security Workshop, CCS 2020'
 paperurl: 'https://arxiv.org/pdf/2007.15064'
 citation: 'Aloufi, Ranya and Haddadi, Hamed and Boyle, David. (2020). &quot;Privacy-preserving Voice Analysis via Disentangled Representations.'
 ---
